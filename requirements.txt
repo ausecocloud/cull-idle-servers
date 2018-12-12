@@ -1,0 +1,5 @@
+python-dateutil
+oauthlib
+requests_oauthlib
+tornado
+pycurl
